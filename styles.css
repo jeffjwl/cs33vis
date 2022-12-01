@@ -1,0 +1,25 @@
+#main-header {
+    font-family: Raleway;
+    font-weight: 400;
+}
+
+body {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    font-family: Raleway;
+}
+
+.container {
+    width: 70%;
+    height: 100vh;
+}
+
+.tableauPlaceholder {
+    width: 50%;
+
+}
+
+.vis-img {
+    width: 100%;
+}
